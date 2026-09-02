@@ -1,4 +1,1 @@
-- Fixed players still looking like they can be attacked to mobs, possibly fixing some modded mob targeting behavior
-- Fixed regression that caused armor to once again be damaged when getting hit while knocked out
-- Fixed edge case when a player dies without their knockout state being reset
-- Fixed potential zero health state after rescue if `rescueRespawnHealth` is configured badly
+- Updated to Minecraft 26.3
